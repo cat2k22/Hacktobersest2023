@@ -1,0 +1,1 @@
+simple login page that can be adjusted in many ways, also supports mobiles and smaller screens. All in one html file for easy static website addition.
